@@ -30,12 +30,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PanosSynetos&theme=blueberry" alt="Panagiotis Synetos"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanosSynetos&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" />
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanosSynetos&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)](https://github.com/PanosSynetos)
-
-[![WakaTime Top Langs](https://github-readme-stats.vercel.app/api/wakatime?custom_title=Languages%20Used%20This%20Week&username=PanosSynetos&layout=compact&langs_count=8&range=last_7_days&theme=github_dark&card_width=445&border_color=30363d)](https://wakatime.com/@PanosSynetos)
-
-<a href="https://profile-summary-for-github.com/user/PanosSynetos">https://profile-summary-for-github.com/user/PanosSynetos</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPanosSynetos%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=postwoman.svg&icon_color=%23D50000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
