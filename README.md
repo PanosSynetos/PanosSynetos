@@ -15,9 +15,6 @@
 
 [![WooCommerce Badge](https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&labelColor=black&logo=woocommerce&logoColor=96588a)](#)
 
-### Frameworks
-
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 ### Languages
 
@@ -35,7 +32,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanosSynetos&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanosSynetos&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)](https://github.com/jin0x)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanosSynetos&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)](https://github.com/PanosSynetos)
 
 [![WakaTime Top Langs](https://github-readme-stats.vercel.app/api/wakatime?custom_title=Languages%20Used%20This%20Week&username=PanosSynetos&layout=compact&langs_count=8&range=last_7_days&theme=github_dark&card_width=445&border_color=30363d)](https://wakatime.com/@PanosSynetos)
 
