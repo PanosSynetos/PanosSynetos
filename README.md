@@ -6,7 +6,7 @@
 - 💪🏻  Code Wrangler at [Automattic](https://automattic.com/) - [WooCommerce](https://woocommerce.com/)
 - 🖥️  Currently working from 🏠
 - 📫  How to reach me: [Twitter - @PanosSynetos](https://twitter.com/PanosSynetos)
-- 🎤  Proud WordCamp Athens 2019 Speaker - [Xdebug with Local Flywheel](https://wordpress.tv/2019/08/26/%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82-%CF%83%CF%85%CE%BD%CE%B5%CF%84%CF%8C%CF%82-debugging-%CE%BC%CE%B5-%CF%84%CE%BF-xdebug/)
+- 🎤  Proud WordCamp Athens 2019 Speaker - [Xdebug locally](https://wordpress.tv/2019/08/26/%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82-%CF%83%CF%85%CE%BD%CE%B5%CF%84%CF%8C%CF%82-debugging-%CE%BC%CE%B5-%CF%84%CE%BF-xdebug/)
 
 
 ### CMS
